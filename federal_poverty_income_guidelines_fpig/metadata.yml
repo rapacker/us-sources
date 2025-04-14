@@ -1,0 +1,8 @@
+- file: ASPE_2025_poverty_guidelines.pdf
+  url: "https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines"
+  retrieved_on: 2025-04-02
+  programs:
+    - poverty_guidelines
+  effective_date: 2025-01-01
+  # Optional fields
+  description: "HHS Poverty Guidelines for the year 2025"
